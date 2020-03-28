@@ -1,3 +1,5 @@
+### basically what i want here is to get link to all dress' pictures available on asos and then download them
+
 # libraries
 
 import zipfile
