@@ -3,5 +3,5 @@
 
 if (window.confirm('If you click "ok" you would be redirected to CharitaBleliving and help people through buying Amazon items.')) 
 {
-window.location.href='https://charitableliving.eu/';
+window.location.href='https://charitable-living.com/';
 };
